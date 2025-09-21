@@ -1,0 +1,213 @@
+2025-09-21 17:16:50 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 17:16:52 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 17:17:19 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 17:17:19 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 17:17:19 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 17:17:19 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - core.utils.prompt_manager - WARNING - core.utils.prompt_manager - 未找到agent-base-prompt.txt文件
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 17:17:21 - 0.7.7_00000000000000 - __main__ - ERROR - __main__ - 应用执行出错: TTSProvider.text_to_speak() takes 3 positional arguments but 4 were given
+2025-09-21 17:25:05 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 17:25:07 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 17:25:22 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 17:25:22 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 17:25:22 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 17:25:22 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 17:25:23 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 17:25:23 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 17:25:23 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 17:25:23 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 17:25:24 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 17:25:24 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！我听得见你呢 😊 有什么想和我聊的吗？或者有什么问题需要帮助吗？我很乐意陪你聊天或者帮你解决难题哦！
+2025-09-21 18:04:19 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:04:21 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:04:37 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:04:37 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:04:37 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:04:37 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:04:38 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:04:38 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 18:20:11 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:20:13 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:20:29 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:20:29 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:20:29 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:20:29 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:20:30 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:20:30 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 18:22:00 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:22:02 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:22:30 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:22:30 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:22:30 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:22:30 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:22:32 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:22:32 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 18:22:57 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:22:58 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:23:02 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:23:02 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:23:02 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:23:02 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:23:03 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:23:03 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 18:32:28 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:32:30 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:32:46 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:32:46 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:32:46 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:32:46 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 18:32:47 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好！听得到呀，很高兴跟你聊天～😊 你看起来有点担心或者不确定的样子，是有什么想和我分享的吗？我很乐意倾听哦！
+2025-09-21 18:36:57 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 18:36:58 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 18:37:12 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 18:37:12 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 18:37:12 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 18:37:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 18:37:13 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 18:37:13 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:12:52 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:12:54 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:13:08 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:13:08 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:13:08 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:13:08 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:13:09 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:13:09 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:13:09 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:13:09 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:13:10 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 输出文件: tmp/tts-2025-09-21@25feb948831f4f62b883b6cffd4b15c9.mp3
+2025-09-21 19:13:10 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:13:10 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！听得到啦～😊 你看起来有点担心的样子，是有什么事情想和我聊聊吗？我很乐意倾听哦！
+2025-09-21 19:30:51 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:30:53 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:31:10 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:31:10 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:31:10 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:31:10 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 输出文件: tmp/tts-2025-09-21@fd7f64d8e0bf48cebbd64eb301213466.mp3
+2025-09-21 19:31:12 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！我听得到你说话呢 😊 有什么想和我聊的吗？或者有什么问题需要帮忙解答？
+2025-09-21 19:36:26 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:36:27 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:36:43 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:36:44 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:36:44 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:36:44 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:36:44 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 输出文件: tmp/tts-2025-09-21@8c6a9cab3c93489086156be070749b57.mp3
+2025-09-21 19:36:44 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！听得到哦，很高兴跟你聊天😊 你看起来有点担心或者不确定的样子，是有什么想和我分享的吗？我很愿意听你说说看~
+2025-09-21 19:42:18 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:42:19 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:42:34 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:42:34 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:42:34 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:42:34 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:42:35 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:42:35 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:42:35 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:42:35 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:42:36 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:42:36 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 输出文件: tmp/tts-2025-09-21@d816f3d27876419388325c46d1a28341.mp3
+2025-09-21 19:42:36 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好！我听得到呢，很高兴和你聊天！😊 有什么想和我分享的吗？或者有什么问题需要帮助吗？
+2025-09-21 19:46:50 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:46:52 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:47:06 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:47:07 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:47:08 - 0.7.7_00000000000000 - core.utils.textUtils - WARNING - core.utils.textUtils - 发送情绪表情失败，错误:'ConnectionHandler' object has no attribute 'websocket'
+2025-09-21 19:47:09 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 输出文件: tmp/tts-2025-09-21@f2bb6a4303fa43f7a5b269b7ebd4cadc.mp3
+2025-09-21 19:47:09 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！我听得到你呢 😊 有什么想和我聊的吗？或者有什么问题需要帮助？我很乐意陪你聊天或者帮你解决问题哦！
+2025-09-21 19:48:50 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 19:48:52 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 19:49:06 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 19:49:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 19:49:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 19:49:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: data\audio.wav
+2025-09-21 19:49:07 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 19:49:07 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 处理文件路径: data\audio.wav
+2025-09-21 19:49:07 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 19:49:07 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 19:49:08 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 19:49:08 - 0.7.7_00000000000000 - core.utils.textUtils - WARNING - core.utils.textUtils - 发送情绪表情失败，错误:'ConnectionHandler' object has no attribute 'websocket'
+2025-09-21 19:49:10 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 输出文件: tmp/tts-2025-09-21@6383634dea1844d0b0d774b9f7b40ba9.mp3
+2025-09-21 19:49:10 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 最终回复: 你好呀！我听得见你呢～😊 有什么想和我聊的吗？或者有什么问题需要帮忙？我很乐意陪你聊天或者提供帮助哦！
+2025-09-21 20:34:18 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 20:34:19 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 20:34:34 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 20:34:34 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 20:34:34 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 20:34:34 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 20:47:38 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: tmp/67c200f8-6d44-4f82-96ec-7e9e0d601278_audio.wav
+2025-09-21 20:47:39 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 20:47:39 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 20:47:39 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 20:47:40 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 20:51:53 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: tmp/2f34d6c7-1f5e-4d50-ab59-c724ef140b99_audio.wav
+2025-09-21 20:51:54 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 20:51:54 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 20:51:54 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 20:51:54 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 20:58:09 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 20:58:10 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 20:58:24 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 20:58:24 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 20:58:24 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 20:58:24 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 21:19:00 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 21:19:01 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 21:19:15 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 21:19:15 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 21:19:15 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 21:19:15 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 21:24:46 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 21:24:47 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 21:25:01 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 21:25:01 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 21:25:01 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 21:25:01 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 21:25:38 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好，请自我介绍一下
+2025-09-21 22:12:49 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 22:12:51 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 22:13:06 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 22:13:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 22:13:06 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 22:13:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 静态文件目录已挂载: /audio -> tmp/
+2025-09-21 22:13:06 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 22:18:11 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: tts成功 EdgeTTS
+2025-09-21 22:18:13 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: llm成功 AliLLM
+2025-09-21 22:18:30 - 0.7.7_00000000000000 - core.asr.fun_local - INFO - core.asr.fun_local - funasr version: 1.2.3.
+2025-09-21 22:18:30 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - ASR模块初始化完成
+2025-09-21 22:18:30 - 0.7.7_00000000000000 - core.utils.modules_initialize - INFO - core.utils.modules_initialize - 初始化组件: asr成功 FunASR
+2025-09-21 22:18:30 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 静态文件目录已挂载: /audio -> tmp/
+2025-09-21 22:18:30 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - FastAPI: 系统初始化完成
+2025-09-21 22:18:57 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好，请自我介绍一下
+2025-09-21 22:18:59 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 生成 TTS 音频文件: tmp/tts-2025-09-21@4f78a094b798441aa7f1a06ebe4411d8.mp3
+2025-09-21 22:19:48 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始处理音频文件: tmp/168dd7aa-7bd3-49a1-ba94-0f64c99cdbe2_audio.wav
+2025-09-21 22:19:50 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 语音识别结果: 你好你好，听得到吗？😔
+2025-09-21 22:19:50 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 开始对话，用户输入: 你好你好，听得到吗？😔
+2025-09-21 22:19:50 - 0.7.7_00000000000000 - core.connection - INFO - core.connection - 大模型收到用户消息: 你好你好，听得到吗？😔
+2025-09-21 22:19:50 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 对话结果: True
+2025-09-21 22:19:50 - 0.7.7_00000000000000 - __main__ - INFO - __main__ - 生成 TTS 音频文件: tmp/tts-2025-09-21@2b4ae743f534491580bad896a5e60a61.mp3
